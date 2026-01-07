@@ -1,6 +1,6 @@
 import React from 'react';
 import { cva, type VariantProps } from 'class-variance-authority';
-import { cn } from '@/lib/utils';
+import { cn, formatPriceToPKR } from '@/lib/utils';
 import { Product as ProductPrimitive } from '@wix/stores/components';
 import { Button } from '@/components/ui/button';
 import { Badge } from '../badge';
@@ -130,7 +130,7 @@ ProductDescription.displayName = 'ProductDescription';
 
 /**
  * Displays the current product price.
- * Automatically handles currency formatting and price ranges.
+ * Automatically handles currency formatting to PKR and price ranges.
  *
  * @component
  * @example
@@ -163,6 +163,7 @@ export const ProductPrice = React.forwardRef<
         props.className
       )}
       data-item-field="variantsInfo.variants[0].price.actualPrice.amount"
+      formatPrice={formatPriceToPKR}
     >
       {props.children}
     </ProductPrimitive.Price>
@@ -174,6 +175,7 @@ ProductPrice.displayName = 'ProductPrice';
 /**
  * Displays the original/compare-at price (usually crossed out).
  * Only shows when the product is on sale and has a compare-at price.
+ * Formats price to PKR currency.
  *
  * @component
  * @example
@@ -199,6 +201,7 @@ export const ProductCompareAtPrice = React.forwardRef<
         props.className
       )}
       data-item-field="variantsInfo.variants[0].price.compareAtPrice.amount"
+      formatPrice={formatPriceToPKR}
     >
       {props.children}
     </ProductPrimitive.CompareAtPrice>

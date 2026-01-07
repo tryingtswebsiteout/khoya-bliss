@@ -49,8 +49,8 @@ export const PriceRangeSelector: React.FC<PriceRangeSelectorProps> = ({
         </div>
         {/* Price Range Display */}
         <div className="flex items-center justify-between text-sm text-content-light mb-6">
-          <span>${String(roundedMin)}</span>
-          <span>${String(roundedMax)}</span>
+          <span>PKR {String(roundedMin)}</span>
+          <span>PKR {String(roundedMax)}</span>
         </div>
 
         {/* Dual Range Slider */}
