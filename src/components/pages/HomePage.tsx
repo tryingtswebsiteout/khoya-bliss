@@ -204,7 +204,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative min-h-[95vh] w-full flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
-            <ParallexImage 
+            <ParallaxImage 
                 src="https://static.wixstatic.com/media/686a4f_25ae0db66d9c45e5b6a00cf5253699d2~mv2.png?originWidth=1920&originHeight=1024"
                 alt="Panda Ice Cream Hero Background"
                 className="w-full h-full"
