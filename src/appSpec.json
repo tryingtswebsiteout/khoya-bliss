@@ -1,0 +1,1104 @@
+{
+  "id": "48dd67e0-c03e-4239-aaa9-c5fa1c070567",
+  "siteName": "Khoya Bliss",
+  "domainUrl": "khoyabliss.com",
+  "brandingPresets": [
+    {
+      "presetId": "00000000-7bb0-4811-b985-90cc0d6a03dc",
+      "brandIdentity": {
+        "designSummary": "**The Khoya Bliss Cascade: A Playful Symphony of Indulgence**\n\nThe Vision: We're crafting a website that embodies the joy and richness of Khoya Bliss Ice Cream. Imagine a cascade of creamy textures, warm colors, and playful asymmetry. This isn't just a website; it's an invitation to indulge in a nostalgic, authentic experience.\n\n**Execution Blueprint:**\n1. The Flowing Grid: A modified grid system where elements appear to 'drip' or 'cascade' down the page. This is achieved through staggered placement and varying module sizes.\n2. Rounded Softness: Every corner is rounded. Containers, buttons, and even image edges should have a soft, inviting feel.\n3. Typographic Harmony: Pair a rounded sans-serif for body text with a slightly quirky, handwritten font for headings to create a balance of readability and personality.\n4. Bouncy Interactions: Use subtle, playful animations on hover to provide positive feedback and enhance the sense of fun. Think gentle wobbles, scale increases, or color shifts.",
+        "toneOfVoice": "Friendly, indulgent, and local. Emphasize the authentic taste of pure milk solids (Khoya) and the nostalgia of traditional South Asian desserts.",
+        "tones": [
+          "Friendly",
+          "Indulgent",
+          "Local",
+          "Authentic",
+          "Nostalgic"
+        ],
+        "designStyle": {
+          "primaryStyle": [
+            "Playful",
+            "Food Blogger Aesthetic"
+          ],
+          "supportingStyles": [
+            "Warm",
+            "Welcoming",
+            "Premium"
+          ]
+        },
+        "palette": {
+          "colors": {
+            "primary": "#E4B363",
+            "primaryForeground": "#FFFFFF",
+            "secondary": "#F2D7A7",
+            "secondaryForeground": "#333333",
+            "background": "#FFF9F0",
+            "foreground": "#555555",
+            "customColors": [
+              {
+                "name": "saffron",
+                "value": "#FFB347"
+              },
+              {
+                "name": "toastedCaramel",
+                "value": "#A67B5B"
+              },
+              {
+                "name": "destructive",
+                "value": "#D32F2F"
+              },
+              {
+                "name": "destructive-foreground",
+                "value": "#FFFFFF"
+              }
+            ]
+          },
+          "paletteUsageGuide": "Use primary for main calls to action. Secondary for supporting elements. Background for large areas. Saffron and Toasted Caramel as accents.",
+          "paletteAccessibilityNotes": "Ensure sufficient contrast between text and background colors for readability. Use a contrast checker to verify WCAG AA compliance."
+        },
+        "typography": {
+          "headings": {
+            "font": {
+              "role": "headings",
+              "fontFamily": "cookie",
+              "fontJustification": ""
+            },
+            "headingsSimilarFonts": [],
+            "headingsUsageGuide": "Use for all main titles and section headers. Keep it concise and engaging.",
+            "headingsAccessibilityNotes": "Ensure sufficient contrast with background. Use semantic heading tags (H1-H6)."
+          },
+          "paragraphs": {
+            "font": {
+              "role": "paragraphs",
+              "fontFamily": "varela round",
+              "fontJustification": ""
+            },
+            "paragraphsSimilarFonts": [],
+            "paragraphsUsageGuide": "Use for all body text and descriptions. Prioritize readability and clarity.",
+            "paragraphsAccessibilityNotes": "Use a legible font size and line height. Ensure sufficient contrast with background."
+          },
+          "welcomeSectionTypography": {
+            "placement": "",
+            "implementation": ""
+          },
+          "fontSizes": [
+            {
+              "name": "xs",
+              "size": "0.75rem",
+              "lineHeight": "1",
+              "letterSpacing": "0.05em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "sm",
+              "size": "0.875rem",
+              "lineHeight": "1.25",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "base",
+              "size": "1rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.01em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "lg",
+              "size": "1.125rem",
+              "lineHeight": "1.75",
+              "letterSpacing": "0.01em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "xl",
+              "size": "1.25rem",
+              "lineHeight": "1.75",
+              "letterSpacing": "0.01em",
+              "fontWeight": "500"
+            },
+            {
+              "name": "2xl",
+              "size": "1.5rem",
+              "lineHeight": "2",
+              "letterSpacing": "0em",
+              "fontWeight": "500"
+            },
+            {
+              "name": "3xl",
+              "size": "1.875rem",
+              "lineHeight": "2.25",
+              "letterSpacing": "0em",
+              "fontWeight": "600"
+            },
+            {
+              "name": "4xl",
+              "size": "2.25rem",
+              "lineHeight": "2.5",
+              "letterSpacing": "0em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "5xl",
+              "size": "3rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.01em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "6xl",
+              "size": "3.75rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.01em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "7xl",
+              "size": "4.5rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.02em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "8xl",
+              "size": "6rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.02em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "9xl",
+              "size": "8rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.03em",
+              "fontWeight": "900"
+            }
+          ]
+        },
+        "layout": {
+          "layoutDna": {
+            "densitySpectrum": "Medium Density",
+            "contrastSpectrum": "Medium Contrast",
+            "gridAlignmentSpectrum": "Asymmetrical, Flowing",
+            "negativeSpaceUsage": "Moderate",
+            "textVsImageEmphasis": "Image Emphasis",
+            "complexitySpectrum": "Moderate Complexity"
+          },
+          "grid": {
+            "compositionApproach": "Cascading Grid with Rounded Elements",
+            "spacing": {
+              "columns": "12 Columns",
+              "rows": "Auto",
+              "gaps": "Base unit: 8px. All grid gaps are multiples of 8px (e.g., 16px, 24px, 32px)."
+            },
+            "margins": "Standard margins on left and right, adjusted for full-bleed sections.",
+            "padding": "Generous padding within containers to create a sense of spaciousness."
+          },
+          "heroSectionLayout": "**The Dripping Delight Intro**\nComposition (Tailwind Spec): Full-screen container (h-screen relative overflow-hidden). Background image (absolute inset-0 w-full h-full object-cover). Headline 'Khoya Bliss: A Taste of Tradition' (absolute bottom-16 left-8 z-20 text-7xl font-bold text-white drop-shadow-lg).\nSignature Hook (Framer Motion Spec): Headline uses `variants` with `initial={{ opacity: 0, y: 50 }}` and `animate={{ opacity: 1, y: 0, transition: { duration: 0.8, ease: 'easeInOut' } }}`. A separate `motion.div` (absolute inset-0 bg-gradient-to-t from-black/80 to-transparent z-10) creates a subtle vignette effect."
+        },
+        "components": {
+          "containers": "Method: Card, Style: background-color: #FFFFFF, border-radius: 20px, box-shadow: 0 4px 12px rgba(0,0,0,0.05), padding: 24px",
+          "images": "Layout Role: Asymmetrical placement, overlapping the main text column by 40px to create depth. | Gallery Type: Horizontal Scroll Filmstrip: A single-row gallery driven by horizontal scroll, where oversized items create a 'peek-a-boo' effect.",
+          "buttons": "Primary: background-color: #E4B363, color: #FFFFFF, border-radius: 24px, padding: 12px 24px, font-weight: 600. Secondary: background-color: transparent, color: #E4B363, border: 2px solid #E4B363, border-radius: 24px, padding: 10px 22px."
+        },
+        "graphicElements": {
+          "icons": "",
+          "illustrations": "",
+          "stickers": ""
+        }
+      },
+      "originImagesUrls": []
+    },
+    {
+      "presetId": "7c04732f-0f1b-4499-8699-4d8e82af2569",
+      "brandIdentity": {
+        "designSummary": "This brand design features a bold, modern aesthetic characterized by a modular, color-blocked layout with large, geometric sans-serif typography. The palette combines warm terracotta orange, olive green, soft peach, and muted lavender as primary background colors, contrasted with cream and black text and UI elements. The layout is structured with strict grid alignment and consistent spacing, creating a balanced yet dynamic visual flow. Typography is tall, narrow, and contemporary, used in large sizes for headings and smaller sizes for body text, reinforcing a clean and edgy tone. UI components like buttons and navigation are minimalistic with rounded shapes and high contrast. Artistic use of blurred color gradients behind text adds depth and a subtle creative flair. Overall, the design conveys a youthful, indie, and sophisticated personality suitable for cultural or music festival websites.",
+        "toneOfVoice": "Contemporary, edgy, youthful, creative, and sophisticated with a clean and confident presence.",
+        "tones": [
+          "bold",
+          "modern",
+          "creative",
+          "youthful",
+          "sophisticated",
+          "clean",
+          "dynamic",
+          "artistic",
+          "minimalistic",
+          "structured"
+        ],
+        "designStyle": {
+          "primaryStyle": [
+            "Modern",
+            "Minimalism",
+            "Color Blocking"
+          ],
+          "supportingStyles": [
+            "Geometric",
+            "Editorial",
+            "Experimental"
+          ]
+        },
+        "palette": {
+          "colors": {
+            "primary": "#D35B3F",
+            "primaryForeground": "#FFF9F0",
+            "secondary": "#8B8B2F",
+            "secondaryForeground": "#000000",
+            "background": "#FAD9C1",
+            "customColors": [
+              {
+                "name": "lavenderspot",
+                "value": "#9B8FB7"
+              },
+              {
+                "name": "cream",
+                "value": "#FFF9F0"
+              },
+              {
+                "name": "black",
+                "value": "#000000"
+              },
+              {
+                "name": "foreground",
+                "value": "#000000"
+              },
+              {
+                "name": "destructive",
+                "value": "#DF3131"
+              },
+              {
+                "name": "destructiveforeground",
+                "value": "#ffffff"
+              }
+            ]
+          },
+          "paletteUsageGuide": "Use the 'primary' color as a dominant background for key sections to create warmth and energy, paired with text in 'primaryForeground' for high contrast and readability. The 'secondary' color serves as a complementary background tone, best used with 'secondaryForeground' text to maintain legibility. The 'background' color provides a soft, neutral base for content areas, allowing other colors to stand out. The 'lavenderSpot' is used as a subtle accent or overlay behind text to add depth and artistic interest without overwhelming the content. 'Cream' is the primary color for UI elements like buttons and navigation backgrounds, ensuring clarity and softness. 'Black' is reserved for body text and headings on lighter backgrounds to maximize contrast. Colors should be combined thoughtfully to maintain accessibility and visual hierarchy, with attention to contrast ratios especially between text and background colors.",
+          "paletteAccessibilityNotes": "The 'primaryForeground' on 'primary' background meets WCAG AA standards for large text and AAA for normal text. 'SecondaryForeground' on 'secondary' background provides sufficient contrast for readability. 'Black' text on 'background' and 'cream' UI elements also meets WCAG AA contrast requirements. The 'lavenderSpot' overlay is used decoratively and does not contain critical text to avoid accessibility issues. Overall, the palette supports accessible text/background combinations when used as specified."
+        },
+        "typography": {
+          "headings": {
+            "font": {
+              "role": "Primary Heading Font",
+              "fontFamily": "avenir-lt-w01_85-heavy1475544",
+              "fontJustification": ""
+            },
+            "headingsSimilarFonts": [
+              "futura-lt-w01-book",
+              "proxima-n-w01-reg",
+              "montserrat"
+            ],
+            "headingsUsageGuide": "Use the heading font in large sizes for main titles and section headers to create strong visual impact. Pair with the paragraph font for body text to maintain readability and hierarchy. Maintain consistent letter spacing and line height to preserve clarity. Headings should be left or center aligned depending on layout context. Use 'primaryForeground' or 'black' for heading text depending on background color to ensure contrast.",
+            "headingsAccessibilityNotes": "Headings in 'primaryForeground' on 'primary' background and 'black' on lighter backgrounds meet WCAG AA contrast standards for all sizes, ensuring accessibility."
+          },
+          "paragraphs": {
+            "font": {
+              "role": "Main Body Text Font",
+              "fontFamily": "avenir-lt-w01_35-light1475496",
+              "fontJustification": ""
+            },
+            "paragraphsSimilarFonts": [
+              "open sans",
+              "rubik-v2",
+              "work-sans-v2"
+            ],
+            "paragraphsUsageGuide": "Use the paragraph font for body text and smaller informational content. Maintain sufficient line height and letter spacing for comfortable reading. Text color should be 'black' on light backgrounds or 'primaryForeground' on dark backgrounds to ensure legibility. Combine with heading font to create a clear typographic hierarchy and visual rhythm.",
+            "paragraphsAccessibilityNotes": "Paragraph text in 'black' on 'background' and 'primaryForeground' on 'primary' background meets WCAG AA contrast requirements for body text."
+          },
+          "welcomeSectionTypography": {
+            "placement": "Centered",
+            "implementation": "The welcome section uses a full-width background image with large, centered typography layered on top. The text is placed centrally both horizontally and vertically, creating a strong focal point. The heading uses the largest font sizes with ample letter spacing to maximize impact. A subtle color overlay behind the text ensures readability against the image. The call-to-action button is placed directly below the heading, centered and visually balanced. This placement strategy creates an immersive and dramatic introduction to the site."
+          },
+          "fontSizes": [
+            {
+              "name": "xs",
+              "size": "0.75rem",
+              "lineHeight": "1.2",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "sm",
+              "size": "0.875rem",
+              "lineHeight": "1.3",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "base",
+              "size": "1rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "lg",
+              "size": "1.125rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "600"
+            },
+            {
+              "name": "xl",
+              "size": "1.5rem",
+              "lineHeight": "1.4",
+              "letterSpacing": "0.03em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "2xl",
+              "size": "2rem",
+              "lineHeight": "1.3",
+              "letterSpacing": "0.03em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "3xl",
+              "size": "2.5rem",
+              "lineHeight": "1.2",
+              "letterSpacing": "0.035em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "4xl",
+              "size": "3rem",
+              "lineHeight": "1.1",
+              "letterSpacing": "0.04em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "5xl",
+              "size": "3.75rem",
+              "lineHeight": "1.1",
+              "letterSpacing": "0.04em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "6xl",
+              "size": "4.5rem",
+              "lineHeight": "1.05",
+              "letterSpacing": "0.045em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "7xl",
+              "size": "6rem",
+              "lineHeight": "1.05",
+              "letterSpacing": "0.05em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "8xl",
+              "size": "8rem",
+              "lineHeight": "1",
+              "letterSpacing": "0.05em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "9xl",
+              "size": "9.5rem",
+              "lineHeight": "1",
+              "letterSpacing": "0.06em",
+              "fontWeight": "900"
+            }
+          ]
+        },
+        "layout": {
+          "layoutDna": {
+            "densitySpectrum": "Balanced",
+            "contrastSpectrum": "High-Contrast",
+            "gridAlignmentSpectrum": "Strict Grid",
+            "negativeSpaceUsage": "Functional",
+            "textVsImageEmphasis": "Balanced",
+            "complexitySpectrum": "Moderately Complex"
+          },
+          "grid": {
+            "compositionApproach": "Column-based",
+            "spacing": {
+              "columns": "12-column grid",
+              "rows": "Defined content rows",
+              "gaps": "Consistent medium gaps"
+            },
+            "margins": "Generous page margins",
+            "padding": "Consistent padding within containers"
+          }
+        },
+        "components": {
+          "containers": "Containers use solid background colors from the palette to create distinct horizontal sections. They have consistent padding and margins to maintain structure and balance. Rounded corners are minimal or absent, emphasizing a clean, geometric look. Text and images are aligned within these containers following the grid system.",
+          "images": "Images are used as naturalistic, documentary-style photos that complement the content. They are placed within or alongside color-blocked containers, often aligned left or right with text. Images have no heavy borders or shadows, maintaining a clean and modern presentation.",
+          "buttons": "Buttons are rounded rectangles with solid fills or outlines. Primary buttons use the 'cream' color fill with black text for high contrast, while secondary buttons use transparent backgrounds with black or cream borders and text. Buttons have consistent padding and a subtle hover effect to indicate interactivity."
+        },
+        "graphicElements": {
+          "icons": "Icons are minimal, monochromatic, and simple, typically using black or cream colors to maintain clarity and consistency with the overall design.",
+          "illustrations": "No prominent illustrations are used; the design relies on photography and color blocking for visual interest.",
+          "stickers": "No sticker or badge elements are present in the design."
+        }
+      },
+      "originImagesUrls": [
+        "https://wixmp-fe53c9ff592a4da924211f23.wixmp.com/uploads/1750172122806-Group%201000002166.png"
+      ]
+    },
+    {
+      "presetId": "69dcd52a-6d1f-46f5-851b-befdf2a42f40",
+      "brandIdentity": {
+        "designSummary": "This design features a modern and vibrant aesthetic characterized by bold color blocking and elegant typography. The primary color palette combines a vivid orange with soft cream, pale yellow, and muted lavender backgrounds, creating a dynamic yet balanced visual experience. Typography pairs a sophisticated serif font for headings with a clean sans-serif for body text, establishing a clear hierarchy and refined style. The layout employs a structured two-column grid with generous spacing, integrating circular and rectangular image crops alongside color-blocked text areas. Buttons and interactive elements are minimalistic and understated, supporting a contemporary and approachable brand personality. Overall, the design conveys a stylish, professional, and inviting atmosphere suitable for lifestyle and beauty-oriented websites.",
+        "toneOfVoice": "Sophisticated, approachable, modern, and vibrant with a touch of elegance.",
+        "tones": [
+          "bold",
+          "elegant",
+          "inviting",
+          "modern",
+          "clean",
+          "vibrant",
+          "professional",
+          "balanced",
+          "stylish",
+          "warm"
+        ],
+        "designStyle": {
+          "primaryStyle": [
+            "Modern",
+            "Minimalism",
+            "Color Blocking"
+          ],
+          "supportingStyles": [
+            "Editorial",
+            "Contemporary",
+            "Lifestyle"
+          ]
+        },
+        "palette": {
+          "colors": {
+            "primary": "#FF6F00",
+            "primaryForeground": "#000000",
+            "secondary": "#8A90E8",
+            "secondaryForeground": "#000000",
+            "background": "#FFF9E6",
+            "customColors": [
+              {
+                "name": "paleyellow",
+                "value": "#FFF4C1"
+              },
+              {
+                "name": "foreground",
+                "value": "#000000"
+              },
+              {
+                "name": "destructive",
+                "value": "#DF3131"
+              },
+              {
+                "name": "destructiveforeground",
+                "value": "#ffffff"
+              }
+            ]
+          },
+          "paletteUsageGuide": "Use the 'primary' color as the main accent and background for key text blocks to create strong visual impact and brand recognition. The 'secondary' color provides a cool contrast and can be used for secondary emphasis or background areas to balance the warmth of 'primary' and 'background'. The 'background' color serves as a warm, neutral canvas for most text and interface elements, ensuring readability and a welcoming atmosphere. The 'paleYellow' custom color complements the palette by adding subtle warmth and can be used for highlights or secondary backgrounds. Text should primarily use 'primaryForeground' or 'secondaryForeground' colors to maintain high contrast and accessibility. Combine these colors in blocks or sections to create a vibrant, modern look with clear visual hierarchy.",
+          "paletteAccessibilityNotes": "The 'primaryForeground' black text on 'primary' orange background meets WCAG AA contrast standards for large text and provides sufficient contrast for readability. The 'secondaryForeground' black text on 'secondary' lavender background also meets WCAG AA contrast for large text. The 'background' cream color with black text ensures excellent readability and accessibility. The 'paleYellow' background with black text maintains adequate contrast for body text. Overall, the palette supports accessible text presentation across all defined color combinations."
+        },
+        "typography": {
+          "headings": {
+            "font": {
+              "role": "Primary Heading Font",
+              "fontFamily": "fraunces",
+              "fontJustification": ""
+            },
+            "headingsSimilarFonts": [
+              "playfair display",
+              "bitter",
+              "cormorantgaramond"
+            ],
+            "headingsUsageGuide": "Use the heading font for all major titles and section headers to convey elegance and style. Pair with the paragraph font for body text to maintain readability and balance. Headings should be sized significantly larger than body text to establish clear hierarchy. Italic styles can be used selectively for emphasis or to add flair. Maintain sufficient spacing above and below headings to enhance clarity and visual separation. Use 'primaryForeground' color for headings on light backgrounds and 'primary' or 'secondary' backgrounds with 'primaryForeground' or 'secondaryForeground' text colors as appropriate.",
+            "headingsAccessibilityNotes": "Headings in 'primaryForeground' on 'background' or 'primary' backgrounds meet WCAG AA contrast requirements for all sizes. Italic headings maintain readability due to strong contrast and appropriate sizing."
+          },
+          "paragraphs": {
+            "font": {
+              "role": "Main Body Text Font",
+              "fontFamily": "open sans",
+              "fontJustification": ""
+            },
+            "paragraphsSimilarFonts": [
+              "nunito sans",
+              "raleway",
+              "poppins-v2"
+            ],
+            "paragraphsUsageGuide": "Use the paragraph font for all body text, descriptions, and smaller informational content. It pairs well with the serif heading font to create a balanced typographic hierarchy. Maintain comfortable line spacing and letter spacing for readability. Text color should primarily be 'primaryForeground' black on 'background' cream or pale yellow backgrounds. Avoid using paragraph text on highly saturated color backgrounds unless contrast is verified. Use consistent margins and padding around paragraphs to ensure clean layout and legibility.",
+            "paragraphsAccessibilityNotes": "Paragraph text in 'primaryForeground' on 'background' or 'paleYellow' backgrounds meets WCAG AA contrast standards for body text sizes. Avoid low contrast combinations to maintain accessibility."
+          },
+          "welcomeSectionTypography": {
+            "placement": "Stacked Branding with Vertical Split",
+            "implementation": "The welcome fold is divided vertically into two equal columns. The left column features a stacked composition: a large, top-aligned brand name/logo on a white background, followed by a bold color block that contains a tagline, supporting text, and a primary call-to-action button. The right column is fully devoted to a high-impact, editorial photograph, creating clear separation and maximizing both brand prominence and visual storytelling. Minimal navigation sits at the top, maintaining the layout's clean and modern feel."
+          },
+          "fontSizes": [
+            {
+              "name": "xs",
+              "size": "0.75rem",
+              "lineHeight": "1.2",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "sm",
+              "size": "0.875rem",
+              "lineHeight": "1.3",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "base",
+              "size": "1rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "lg",
+              "size": "1.125rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "xl",
+              "size": "1.25rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.02em",
+              "fontWeight": "600"
+            },
+            {
+              "name": "2xl",
+              "size": "1.5rem",
+              "lineHeight": "1.4",
+              "letterSpacing": "0.015em",
+              "fontWeight": "600"
+            },
+            {
+              "name": "3xl",
+              "size": "1.875rem",
+              "lineHeight": "1.3",
+              "letterSpacing": "0em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "4xl",
+              "size": "2.25rem",
+              "lineHeight": "1.2",
+              "letterSpacing": "-0.01em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "5xl",
+              "size": "3rem",
+              "lineHeight": "1.1",
+              "letterSpacing": "-0.015em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "6xl",
+              "size": "3.75rem",
+              "lineHeight": "1.1",
+              "letterSpacing": "-0.02em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "7xl",
+              "size": "4.5rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.025em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "8xl",
+              "size": "6rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.03em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "9xl",
+              "size": "8rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.035em",
+              "fontWeight": "900"
+            }
+          ]
+        },
+        "layout": {
+          "layoutDna": {
+            "densitySpectrum": "Balanced",
+            "contrastSpectrum": "High-Contrast",
+            "gridAlignmentSpectrum": "Strict Grid",
+            "negativeSpaceUsage": "Generous",
+            "textVsImageEmphasis": "Balanced",
+            "complexitySpectrum": "Simple & Clean"
+          },
+          "grid": {
+            "compositionApproach": "he welcome fold is divided vertically into two equal columns. The left column features a stacked composition: a large, top-aligned headline on a solid color background, followed by a bold color block that contains a tagline, supporting text, and a primary call-to-action button. The right column is fully devoted to a high-impact, editorial photograph, creating clear separation and maximizing both brand prominence and visual storytelling. Minimal navigation sits at the top, maintaining the layout's clean and modern feel.",
+            "spacing": {
+              "columns": "12-column grid",
+              "rows": "Defined content rows",
+              "gaps": "Consistent medium gaps"
+            },
+            "margins": "Generous page margins",
+            "padding": "Consistent padding within containers"
+          }
+        },
+        "components": {
+          "containers": "Containers use solid color backgrounds with clean edges and generous padding. Color blocks are used to highlight key content areas, creating visual separation and emphasis. The background color 'background' is used for main containers, while 'primary' and 'secondary' colors serve as accent container backgrounds.",
+          "images": "Images are presented with clean cropping, including creative shapes such as circles, and are placed adjacent to text blocks. Images have no borders or shadows, maintaining a minimalist and modern aesthetic.",
+          "buttons": "Buttons are minimalistic with thin borders in 'primary' color and transparent or 'background' fill. Text inside buttons uses 'primaryForeground' color for clarity. Hover states likely invert colors or add subtle shading to indicate interactivity."
+        },
+        "graphicElements": {
+          "icons": "No icons are prominently used in the design, maintaining a clean and uncluttered look.",
+          "illustrations": "No illustrations are present; the design relies on photography and color blocking for visual interest.",
+          "stickers": "No stickers or badges are used, supporting the minimalist and elegant style."
+        }
+      },
+      "originImagesUrls": [
+        "https://wixmp-fe53c9ff592a4da924211f23.wixmp.com/uploads/1753183831075-Screenshot%202025-07-22%20at%2014.29.10.png"
+      ]
+    },
+    {
+      "presetId": "630090f6-69f3-4d49-bd65-6a3306173a38",
+      "brandIdentity": {
+        "designSummary": "This brand design features a modern, clean, and approachable aesthetic with a focus on clarity and friendliness. The color palette uses soft pastel yellow and pastel blue as primary UI background colors, contrasted with a strong dark navy for text and interactive elements. The layout is spacious and modular, with generous padding and rounded corners on cards and buttons, creating a soft and welcoming feel. Typography is a geometric sans-serif with rounded edges, combining large, bold headings with clean, legible body text to convey professionalism and warmth. Circular images and rounded rectangular backgrounds behind text add visual interest and a human touch. Overall, the design balances trustworthiness and innovation with a calm, friendly tone, making it suitable for service-oriented industries seeking a confident yet approachable brand presence.",
+        "toneOfVoice": "Trustworthy, approachable, calm, professional, and friendly.",
+        "tones": [
+          "Trustworthy",
+          "Calm",
+          "Friendly",
+          "Professional",
+          "Approachable",
+          "Modern",
+          "Clean",
+          "Warm",
+          "Inviting",
+          "Confident"
+        ],
+        "designStyle": {
+          "primaryStyle": [
+            "Minimalism",
+            "Modern",
+            "Friendly"
+          ],
+          "supportingStyles": [
+            "Geometric",
+            "Soft UI",
+            "Modular"
+          ]
+        },
+        "palette": {
+          "colors": {
+            "primary": "#0E2A35",
+            "primaryForeground": "#FFFFFF",
+            "secondary": "#FFF8D1",
+            "secondaryForeground": "#0E2A35",
+            "background": "#D0FBF9",
+            "customColors": [
+              {
+                "name": "foreground",
+                "value": "#0E2A35"
+              },
+              {
+                "name": "destructive",
+                "value": "#DF3131"
+              },
+              {
+                "name": "destructiveforeground",
+                "value": "#ffffff"
+              },
+              {
+                "name": "accentcyan",
+                "value": "#D0FBF9"
+              },
+              {
+                "name": "accentyellow",
+                "value": "#FFF8D1"
+              }
+            ]
+          },
+          "paletteUsageGuide": "The color system relies on a high-contrast 'Ink on Pastel' approach. The 'primary' color (Deep Navy) is the workhorse of the brand, used for all typography, icons, and primary action buttons to ensure maximum legibility and visual weight. The 'background' (Pastel Mint) and 'secondary' (Pastel Cream) colors serve as the environmental canvas, used for page backgrounds, content cards, and layout blocks. Never use the pastel colors for text; they are strictly for containers and backgrounds. Use 'primaryForeground' (White) exclusively for text placed on top of solid 'primary' buttons. The 'foreground' custom color is identical to 'primary' and should be used for all standard body text on 'background' or 'secondary' surfaces.",
+          "paletteAccessibilityNotes": "The palette is designed for exceptional accessibility. The combination of the dark 'primary' text against the light 'background' and 'secondary' surfaces yields a contrast ratio exceeding 14:1, passing WCAG AAA standards. Similarly, the 'primary' buttons with 'primaryForeground' text pass AAA standards. The design ensures that content is readable for all users by avoiding low-contrast combinations entirely."
+        },
+        "typography": {
+          "headings": {
+            "font": {
+              "role": "Primary Heading Font",
+              "fontFamily": "poppins-v2",
+              "fontJustification": ""
+            },
+            "headingsSimilarFonts": [
+              "rubik-v2",
+              "nunito sans",
+              "work-sans-v2"
+            ],
+            "headingsUsageGuide": "Use the heading font for all major titles and section headers. The large, bold style with generous spacing ensures clarity and emphasis. Pair headings with the paragraph font to create a harmonious typographic hierarchy. Maintain sufficient contrast by using 'primaryForeground' or 'secondaryForeground' colors for headings on pastel backgrounds. Avoid overcrowding headings to preserve readability and visual balance.",
+            "headingsAccessibilityNotes": "Headings in 'primaryForeground' or 'secondaryForeground' colors on 'primary' or 'secondary' backgrounds meet WCAG AA contrast standards, ensuring accessibility for users with visual impairments."
+          },
+          "paragraphs": {
+            "font": {
+              "role": "Main Body Text Font",
+              "fontFamily": "poppins-v2",
+              "fontJustification": ""
+            },
+            "paragraphsSimilarFonts": [
+              "rubik-v2",
+              "nunito sans",
+              "work-sans-v2"
+            ],
+            "paragraphsUsageGuide": "Use the paragraph font for all body text, descriptions, and smaller UI text. Maintain good line spacing and letter spacing for readability. Text should primarily appear in 'primaryForeground' or 'secondaryForeground' colors on white or pastel backgrounds to ensure contrast. Combine with heading fonts to create a clear typographic hierarchy and consistent user experience.",
+            "paragraphsAccessibilityNotes": "Paragraph text in 'primaryForeground' or 'secondaryForeground' colors on 'background' white or pastel backgrounds meets WCAG AA contrast requirements for body text, supporting accessibility."
+          },
+          "welcomeSectionTypography": {
+            "placement": "Centered",
+            "implementation": "The welcome section uses a large, centered heading with generous line spacing and letter spacing to create a calm and focused introduction. The text is placed centrally on a soft pastel gradient background, emphasizing clarity and approachability. Supporting text is smaller and aligned below the heading, maintaining balance and readability. The call-to-action buttons are placed in the bottom right corner, visually anchored but not overpowering the main message."
+          },
+          "fontSizes": [
+            {
+              "name": "xs",
+              "size": "0.75rem",
+              "lineHeight": "1.2",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "sm",
+              "size": "0.875rem",
+              "lineHeight": "1.3",
+              "letterSpacing": "0.02em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "base",
+              "size": "1rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "400"
+            },
+            {
+              "name": "lg",
+              "size": "1.125rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "500"
+            },
+            {
+              "name": "xl",
+              "size": "1.25rem",
+              "lineHeight": "1.5",
+              "letterSpacing": "0.025em",
+              "fontWeight": "600"
+            },
+            {
+              "name": "2xl",
+              "size": "1.5rem",
+              "lineHeight": "1.4",
+              "letterSpacing": "0.02em",
+              "fontWeight": "600"
+            },
+            {
+              "name": "3xl",
+              "size": "1.875rem",
+              "lineHeight": "1.3",
+              "letterSpacing": "0",
+              "fontWeight": "700"
+            },
+            {
+              "name": "4xl",
+              "size": "2.25rem",
+              "lineHeight": "1.2",
+              "letterSpacing": "-0.01em",
+              "fontWeight": "700"
+            },
+            {
+              "name": "5xl",
+              "size": "3rem",
+              "lineHeight": "1.1",
+              "letterSpacing": "-0.02em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "6xl",
+              "size": "3.75rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.03em",
+              "fontWeight": "800"
+            },
+            {
+              "name": "7xl",
+              "size": "4.5rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.04em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "8xl",
+              "size": "6rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.05em",
+              "fontWeight": "900"
+            },
+            {
+              "name": "9xl",
+              "size": "8rem",
+              "lineHeight": "1",
+              "letterSpacing": "-0.06em",
+              "fontWeight": "900"
+            }
+          ]
+        },
+        "layout": {
+          "layoutDna": {
+            "densitySpectrum": "Balanced",
+            "contrastSpectrum": "Moderate Contrast",
+            "gridAlignmentSpectrum": "Modular",
+            "negativeSpaceUsage": "Generous",
+            "textVsImageEmphasis": "Text-Focused",
+            "complexitySpectrum": "Simple & Clean"
+          },
+          "grid": {
+            "compositionApproach": "Modular",
+            "spacing": {
+              "columns": "12-column grid",
+              "rows": "Defined content rows",
+              "gaps": "Consistent medium gaps"
+            },
+            "margins": "Generous page margins",
+            "padding": "Consistent padding within containers"
+          }
+        },
+        "components": {
+          "containers": "Containers use pastel background colors with rounded corners and subtle shadows to create separation and softness. Padding is generous to ensure content breathes. The container backgrounds alternate between 'primary' pastel yellow and 'secondary' pastel blue for visual interest and section differentiation.",
+          "images": "Images are presented in circular frames, adding a friendly and approachable feel. They are used sparingly to complement text and break the grid's rectangular structure. Images do not influence the core color palette.",
+          "buttons": "Buttons have rounded corners and use the 'secondary' pastel blue background with 'secondaryForeground' dark navy text for primary actions. Secondary buttons use a dark navy background with white text for strong contrast. Buttons include subtle arrow icons consistent in style and color."
+        },
+        "graphicElements": {
+          "icons": "Icons are minimal, line-based, and use the 'primaryForeground' dark navy color to maintain clarity and consistency. They are used in buttons and to indicate actions like 'Learn More'.",
+          "illustrations": "No illustrations are present; the design relies on photography and UI elements for visual interest.",
+          "stickers": "No stickers or badges are used in the design."
+        }
+      },
+      "originImagesUrls": [
+        "https://wixmp-fe53c9ff592a4da924211f23.wixmp.com/uploads/1751184957805-Screenshot%202025-06-03%20at%2020.01.37.jpg"
+      ]
+    }
+  ],
+  "brandBook": {
+    "tones": [
+      "Friendly",
+      "Indulgent",
+      "Local",
+      "Authentic",
+      "Nostalgic"
+    ],
+    "designStyle": {
+      "primaryStyle": [
+        "Playful",
+        "Food Blogger Aesthetic"
+      ],
+      "supportingStyles": [
+        "Warm",
+        "Welcoming",
+        "Premium"
+      ]
+    },
+    "toneOfVoice": "Friendly, indulgent, and local. Emphasize the authentic taste of pure milk solids (Khoya) and the nostalgia of traditional South Asian desserts.",
+    "components": {
+      "images": "Layout Role: Asymmetrical placement, overlapping the main text column by 40px to create depth. | Gallery Type: Horizontal Scroll Filmstrip: A single-row gallery driven by horizontal scroll, where oversized items create a 'peek-a-boo' effect.",
+      "buttons": "Primary: background-color: #E4B363, color: #FFFFFF, border-radius: 24px, padding: 12px 24px, font-weight: 600. Secondary: background-color: transparent, color: #E4B363, border: 2px solid #E4B363, border-radius: 24px, padding: 10px 22px.",
+      "containers": "Method: Card, Style: background-color: #FFFFFF, border-radius: 20px, box-shadow: 0 4px 12px rgba(0,0,0,0.05), padding: 24px"
+    },
+    "typography": {
+      "headings": {
+        "font": {
+          "role": "headings",
+          "fontFamily": "cookie",
+          "fontJustification": ""
+        },
+        "headingsUsageGuide": "Use for all main titles and section headers. Keep it concise and engaging.",
+        "headingsSimilarFonts": [],
+        "headingsAccessibilityNotes": "Ensure sufficient contrast with background. Use semantic heading tags (H1-H6)."
+      },
+      "fontSizes": [
+        {
+          "name": "xs",
+          "size": "0.75rem",
+          "letterSpacing": "0.05em",
+          "lineHeight": "1",
+          "fontWeight": "400"
+        },
+        {
+          "name": "sm",
+          "size": "0.875rem",
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.25",
+          "fontWeight": "400"
+        },
+        {
+          "name": "base",
+          "size": "1rem",
+          "letterSpacing": "0.01em",
+          "lineHeight": "1.5",
+          "fontWeight": "400"
+        },
+        {
+          "name": "lg",
+          "size": "1.125rem",
+          "letterSpacing": "0.01em",
+          "lineHeight": "1.75",
+          "fontWeight": "400"
+        },
+        {
+          "name": "xl",
+          "size": "1.25rem",
+          "letterSpacing": "0.01em",
+          "lineHeight": "1.75",
+          "fontWeight": "500"
+        },
+        {
+          "name": "2xl",
+          "size": "1.5rem",
+          "letterSpacing": "0em",
+          "lineHeight": "2",
+          "fontWeight": "500"
+        },
+        {
+          "name": "3xl",
+          "size": "1.875rem",
+          "letterSpacing": "0em",
+          "lineHeight": "2.25",
+          "fontWeight": "600"
+        },
+        {
+          "name": "4xl",
+          "size": "2.25rem",
+          "letterSpacing": "0em",
+          "lineHeight": "2.5",
+          "fontWeight": "700"
+        },
+        {
+          "name": "5xl",
+          "size": "3rem",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1",
+          "fontWeight": "700"
+        },
+        {
+          "name": "6xl",
+          "size": "3.75rem",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1",
+          "fontWeight": "800"
+        },
+        {
+          "name": "7xl",
+          "size": "4.5rem",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1",
+          "fontWeight": "800"
+        },
+        {
+          "name": "8xl",
+          "size": "6rem",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1",
+          "fontWeight": "900"
+        },
+        {
+          "name": "9xl",
+          "size": "8rem",
+          "letterSpacing": "-0.03em",
+          "lineHeight": "1",
+          "fontWeight": "900"
+        }
+      ],
+      "paragraphs": {
+        "font": {
+          "role": "paragraphs",
+          "fontFamily": "varela round",
+          "fontJustification": ""
+        },
+        "paragraphsUsageGuide": "Use for all body text and descriptions. Prioritize readability and clarity.",
+        "paragraphsSimilarFonts": [],
+        "paragraphsAccessibilityNotes": "Use a legible font size and line height. Ensure sufficient contrast with background."
+      },
+      "welcomeSectionTypography": {
+        "placement": "",
+        "implementation": ""
+      }
+    },
+    "originImagesUrls": [],
+    "layout": {
+      "grid": {
+        "margins": "Standard margins on left and right, adjusted for full-bleed sections.",
+        "padding": "Generous padding within containers to create a sense of spaciousness.",
+        "spacing": {
+          "gaps": "Base unit: 8px. All grid gaps are multiples of 8px (e.g., 16px, 24px, 32px).",
+          "rows": "Auto",
+          "columns": "12 Columns"
+        },
+        "compositionApproach": "Cascading Grid with Rounded Elements"
+      },
+      "layoutDna": {
+        "contrastSpectrum": "Medium Contrast",
+        "densitySpectrum": "Medium Density",
+        "textVsImageEmphasis": "Image Emphasis",
+        "complexitySpectrum": "Moderate Complexity",
+        "gridAlignmentSpectrum": "Asymmetrical, Flowing",
+        "negativeSpaceUsage": "Moderate"
+      },
+      "heroSectionLayout": "**The Dripping Delight Intro**\nComposition (Tailwind Spec): Full-screen container (h-screen relative overflow-hidden). Background image (absolute inset-0 w-full h-full object-cover). Headline 'Khoya Bliss: A Taste of Tradition' (absolute bottom-16 left-8 z-20 text-7xl font-bold text-white drop-shadow-lg).\nSignature Hook (Framer Motion Spec): Headline uses `variants` with `initial={{ opacity: 0, y: 50 }}` and `animate={{ opacity: 1, y: 0, transition: { duration: 0.8, ease: 'easeInOut' } }}`. A separate `motion.div` (absolute inset-0 bg-gradient-to-t from-black/80 to-transparent z-10) creates a subtle vignette effect."
+    },
+    "graphicElements": {
+      "icons": "",
+      "stickers": "",
+      "illustrations": ""
+    },
+    "designSummary": "**The Khoya Bliss Cascade: A Playful Symphony of Indulgence**\n\nThe Vision: We're crafting a website that embodies the joy and richness of Khoya Bliss Ice Cream. Imagine a cascade of creamy textures, warm colors, and playful asymmetry. This isn't just a website; it's an invitation to indulge in a nostalgic, authentic experience.\n\n**Execution Blueprint:**\n1. The Flowing Grid: A modified grid system where elements appear to 'drip' or 'cascade' down the page. This is achieved through staggered placement and varying module sizes.\n2. Rounded Softness: Every corner is rounded. Containers, buttons, and even image edges should have a soft, inviting feel.\n3. Typographic Harmony: Pair a rounded sans-serif for body text with a slightly quirky, handwritten font for headings to create a balance of readability and personality.\n4. Bouncy Interactions: Use subtle, playful animations on hover to provide positive feedback and enhance the sense of fun. Think gentle wobbles, scale increases, or color shifts.",
+    "palette": {
+      "colors": {
+        "background": "#FFF9F0",
+        "secondary": "#F2D7A7",
+        "customColors": [
+          {
+            "name": "saffron",
+            "value": "#FFB347"
+          },
+          {
+            "name": "toastedCaramel",
+            "value": "#A67B5B"
+          },
+          {
+            "name": "destructive",
+            "value": "#D32F2F"
+          },
+          {
+            "name": "destructive-foreground",
+            "value": "#FFFFFF"
+          }
+        ],
+        "foreground": "#555555",
+        "secondaryForeground": "#333333",
+        "primaryForeground": "#FFFFFF",
+        "primary": "#E4B363"
+      },
+      "paletteUsageGuide": "Use primary for main calls to action. Secondary for supporting elements. Background for large areas. Saffron and Toasted Caramel as accents.",
+      "paletteAccessibilityNotes": "Ensure sufficient contrast between text and background colors for readability. Use a contrast checker to verify WCAG AA compliance."
+    }
+  },
+  "initialPrompt": "Create a vibrant, high-energy 'foodie' website for 'Khoya Bliss Ice Cream,' a boutique creamery specializing exclusively in traditional, rich Khoya-flavored ice cream. The design should feel premium yet welcoming, using a warm color palette of cream, saffron, and toasted caramel to evoke the richness of the product.\n\nKey Features to Include:\n\nProduct Selection: Showcase our signature Khoya flavor in two distinct sizes: a 10-Liter Bulk Pack (Price: 3,000 PKR) for events and a 1-Liter Family Pack (Price: 500 PKR) for home enjoyment.\n\nVisual Style: Use a 'unique food blogger' aesthetic—large, high-quality images of dripping ice cream, close-ups of texture, and rustic wooden spoons. Avoid corporate or stiff layouts.\n\nTone of Voice: Friendly, indulgent, and local. Emphasize the authentic taste of pure milk solids (Khoya) and the nostalgia of traditional South Asian desserts.\n\nPages Needed: > 1. A 'Home' page with a mouth-watering hero section. 2. An 'Order Now' section with a clear pricing table for the 1L and 10L options. 3. A 'Our Story' section highlighting the purity of our ingredients. 4. A 'Contact' page for bulk wholesale inquiries.\n\nCall to Action: Use 'Treat Yourself' or 'Order Your Batch' instead of generic 'Buy Now' buttons.",
+  "status": "READY",
+  "revision": "12",
+  "createdDate": "2026-01-07T16:31:34.403Z",
+  "updatedDate": "2026-01-07T16:32:44.043Z",
+  "attachments": {
+    "contentImagesUrls": [],
+    "inspirationImagesUrls": []
+  },
+  "selectedBrandingPresetId": "00000000-7bb0-4811-b985-90cc0d6a03dc",
+  "plan": "\n\n```json\n{\n  \"sections\": [\n    {\n      \"id\": \"overview\",\n      \"title\": \"## Overview\",\n      \"content\": \"This plan creates a vibrant e-commerce website for Khoya Bliss Ice Cream, featuring a premium product catalog with two signature sizes, an engaging story section, and contact capabilities for wholesale inquiries.\"\n    },\n    {\n      \"id\": \"key-features\",\n      \"title\": \"## Key features\",\n      \"content\": \"- **View Product Listing**: Displays the two signature Khoya ice cream pack sizes with high-quality imagery.\\n- **View Product Details**: Shows detailed information, pricing, and texture close-ups for each pack option.\\n- **Submit Order**: Allows customers to add products to cart and proceed to checkout with custom 'Order Your Batch' call-to-action.\\n- **View Brand Story**: Displays information about the purity of ingredients and the authentic taste of traditional Khoya ice cream.\\n- **Submit Contact Form**: Allows bulk wholesale inquiries and customer questions.\",\n      \"metadata\": [\n        { \"id\": \"view-product-listing\", \"name\": \"View Product Listing\" },\n        { \"id\": \"view-product-details\", \"name\": \"View Product Details\" },\n        { \"id\": \"submit-order\", \"name\": \"Submit Order\" },\n        { \"id\": \"view-brand-story\", \"name\": \"View Brand Story\" },\n        { \"id\": \"submit-contact-form\", \"name\": \"Submit Contact Form\" }\n      ]\n    },\n    {\n      \"id\": \"structure\",\n      \"title\": \"## Structure\",\n      \"content\": \"- **Header (Reusable)**: Contains the Khoya Bliss logo and navigation links to Home, Order Now, Our Story, and Contact.\\n- **Footer (Reusable)**: Contains social media links, copyright notice, and contact information.\\n- **Home Page**: Features a mouth-watering hero section with dripping ice cream imagery and brand introduction.\\n- **Order Now Page**: Hosts the product listing with pricing table for 1L Family Pack (500 PKR) and 10L Bulk Pack (3,000 PKR), with product details and checkout functionality.\\n- **Our Story Page**: Displays brand narrative highlighting the purity of Khoya ingredients and nostalgia of traditional South Asian desserts.\\n- **Contact Page**: Contains a contact form for bulk wholesale inquiries and customer questions.\"\n    }\n  ],\n  \"apps\": [\n    {\n      \"id\": \"wix-stores\",\n      \"keyFeatures\": [\n        { \"id\": \"view-product-listing\", \"name\": \"View Product Listing\" },\n        { \"id\": \"view-product-details\", \"name\": \"View Product Details\" },\n        { \"id\": \"submit-order\", \"name\": \"Submit Order\" }\n      ]\n    },\n    {\n      \"id\": \"wix-cms\",\n      \"keyFeatures\": [\n        { \"id\": \"view-brand-story\", \"name\": \"View Brand Story\" },\n        { \"id\": \"submit-contact-form\", \"name\": \"Submit Contact Form\" }\n      ]\n    }\n  ],\n  \"version\": \"3.0.21\"\n}\n```",
+  "designerData": {
+    "designerId": "33506850-5fb4-4afb-8a24-82995beb7a53",
+    "designerName": "Pixie",
+    "selectionMethod": "UNSELECTED"
+  }
+}
