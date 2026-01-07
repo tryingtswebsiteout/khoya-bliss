@@ -77,19 +77,19 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: 'Phone',
-      content: '+92 300 1234567',
+      content: '+92 03008404234',
       description: 'Mon-Sat, 9am-8pm',
     },
     {
       icon: Mail,
       title: 'Email',
-      content: 'hello@khoyabliss.com',
+      content: 'chtrader017@gmail.com',
       description: 'We reply within 24 hours',
     },
     {
       icon: MapPin,
       title: 'Location',
-      content: 'Karachi, Pakistan',
+      content: 'Lahore, Pakistan',
       description: 'Serving nationwide',
     },
   ];

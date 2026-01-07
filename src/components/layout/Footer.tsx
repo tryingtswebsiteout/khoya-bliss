@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand Section */}
           <div>
-            <h3 className="font-heading text-3xl text-primary mb-4">Khoya Bliss</h3>
+            <h3 className="font-heading text-3xl text-primary mb-4">Panda Ice Cream Factory</h3>
             <p className="font-paragraph text-foreground text-base leading-relaxed">
               Experience the authentic taste of traditional Khoya ice cream, crafted with pure milk solids and love.
             </p>
@@ -53,15 +53,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary flex-shrink-0" />
-                <span className="font-paragraph text-base text-foreground">+92 300 1234567</span>
+                <span className="font-paragraph text-base text-foreground">+92 03008404234</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary flex-shrink-0" />
-                <span className="font-paragraph text-base text-foreground">hello@khoyabliss.com</span>
+                <span className="font-paragraph text-base text-foreground">chtrader017@gmail.com</span>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-1" />
-                <span className="font-paragraph text-base text-foreground">Karachi, Pakistan</span>
+                <span className="font-paragraph text-base text-foreground">Lahore, Pakistan</span>
               </li>
             </ul>
 
@@ -86,7 +86,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-secondary/40 mt-12 pt-8 text-center">
           <p className="font-paragraph text-sm text-foreground">
-            © {new Date().getFullYear()} Khoya Bliss Ice Cream. All rights reserved.
+            © {new Date().getFullYear()} Panda Ice Cream Factory. All rights reserved.
           </p>
         </div>
       </div>

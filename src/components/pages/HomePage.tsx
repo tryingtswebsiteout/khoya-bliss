@@ -102,7 +102,7 @@ const StickySection = () => {
                     <AnimatedElement>
                         <div className="relative rounded-[3rem] overflow-hidden shadow-2xl aspect-[4/5] border-8 border-white">
                             <Image 
-                                src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=product-showcase" 
+                                src="https://static.wixstatic.com/media/686a4f_dc26ac7efdc046729df9598e11a539d0~mv2.png?originWidth=768&originHeight=960" 
                                 alt="Close-up of creamy Khoya ice cream texture" 
                                 className="w-full h-full object-cover"
                             />
@@ -204,9 +204,9 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative min-h-[95vh] w-full flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
-            <ParallaxImage 
-                src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=hero-ice-cream"
-                alt="Khoya Bliss Hero Background"
+            <ParallexImage 
+                src="https://static.wixstatic.com/media/686a4f_25ae0db66d9c45e5b6a00cf5253699d2~mv2.png?originWidth=1920&originHeight=1024"
+                alt="Panda Ice Cream Hero Background"
                 className="w-full h-full"
                 speed={0.3}
             />
@@ -227,7 +227,7 @@ export default function HomePage() {
                 </div>
                 
                 <h1 className="font-heading text-[5rem] sm:text-[7rem] md:text-[9rem] lg:text-[11rem] leading-[0.8] text-white drop-shadow-2xl mb-6 mix-blend-overlay opacity-90">
-                    Khoya Bliss
+                    Panda Ice Cream
                 </h1>
                 <h2 className="font-heading text-4xl sm:text-5xl md:text-6xl text-saffron mb-12 drop-shadow-lg">
                     A Taste of Tradition
@@ -273,7 +273,7 @@ export default function HomePage() {
                 <AnimatedElement>
                     <div className="relative aspect-[3/4] rounded-[4rem] overflow-hidden rotate-[-3deg] border-4 border-white shadow-2xl">
                         <Image 
-                            src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=product-showcase" 
+                            src="https://static.wixstatic.com/media/686a4f_6abff257b9454e18a6824db21b9b22f8~mv2.png?originWidth=704&originHeight=960" 
                             alt="Spoonful of Khoya Ice Cream"
                             className="w-full h-full object-cover scale-110"
                         />
@@ -380,7 +380,7 @@ export default function HomePage() {
       <section className="relative py-40 w-full overflow-hidden">
         <div className="absolute inset-0">
             <Image 
-                src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=hero-ice-cream"
+                src="https://static.wixstatic.com/media/686a4f_1aef04ac099846ec89b92cfaac0baa7d~mv2.png?originWidth=1920&originHeight=1024"
                 alt="Background Texture"
                 className="w-full h-full object-cover opacity-10"
             />

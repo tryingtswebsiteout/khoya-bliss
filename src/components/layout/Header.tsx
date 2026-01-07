@@ -29,7 +29,7 @@ export default function Header() {
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              Khoya Bliss
+              Panda Ice Cream
             </motion.h1>
           </Link>
 

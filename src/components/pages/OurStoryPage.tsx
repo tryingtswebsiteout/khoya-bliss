@@ -41,13 +41,13 @@ export default function OurStoryPage() {
               Our Story
             </h1>
             <p className="font-paragraph text-lg text-foreground leading-relaxed mb-6">
-              Khoya Bliss was born from a simple desire: to bring back the authentic taste of traditional Khoya ice cream that our grandmothers used to make. In a world of artificial flavors and mass production, we wanted to create something real, something that would transport you back to simpler times.
+              Panda Ice Cream Factory was born from a simple desire: to bring back the authentic taste of traditional Khoya ice cream that our grandmothers used to make. In a world of artificial flavors and mass production, we wanted to create something real, something that would transport you back to simpler times.
             </p>
             <p className="font-paragraph text-lg text-foreground leading-relaxed mb-6">
               Our journey began in a small kitchen, experimenting with recipes and techniques until we perfected the art of making ice cream with pure milk solids. Today, we're proud to serve thousands of customers who appreciate the difference that quality ingredients and traditional methods make.
             </p>
             <p className="font-paragraph text-lg text-foreground leading-relaxed">
-              Every scoop of Khoya Bliss is a celebration of heritage, craftsmanship, and the simple joy of indulging in something truly special.
+              Every scoop of Panda Ice Cream is a celebration of heritage, craftsmanship, and the simple joy of indulging in something truly special.
             </p>
           </motion.div>
 
